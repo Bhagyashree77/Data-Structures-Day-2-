@@ -3,7 +3,7 @@
 main()
 {
     int age,i=0,j=0,k=0,count=0;
-    while (count<20)
+    while(count<20)
     {
         scanf("%d",&age);
         if(age<3)
